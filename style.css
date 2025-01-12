@@ -1,0 +1,35 @@
+
+table{
+    width:50%;
+    margin:auto;
+}
+
+body{
+    padding-top: 8%;
+}
+
+th,td{
+    border: 1px solid #ddd;
+    padding:10px;
+    text-align:center;
+}
+th{
+    background-color: #f2f2f2;
+}
+
+.cl1,
+.cl2{
+    background-color: chartreuse;
+}
+.cl3,
+.cl4{
+    background-color: chartreuse;
+}
+
+h6{
+    font-size:large;
+    font-family: fantasy;
+    display:contents;
+    float:none;
+
+}
